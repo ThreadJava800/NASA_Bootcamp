@@ -74,4 +74,6 @@ dependencies {
     kapt "android.arch.persistence.room:compiler:1.1.1"
 
     implementation 'com.squareup.okhttp3:okhttp:5.0.0-alpha.2'
+
+    implementation 'io.sentry:sentry-android:5.0.1'
 }
